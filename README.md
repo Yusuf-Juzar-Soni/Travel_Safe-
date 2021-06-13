@@ -16,6 +16,7 @@ As the number of cases in different countries continues to fluctuate in an erran
 - 	No. of people vaccinated in that area.
 - 	Population size and density of that area.
 * Output: Percentage score showing how safe that destination is.
+* ARIMA model used to predict future number of cases.
 
 **Personas:** 
 Our target audience would be  uncertain travelers, who cannot decide whether a particular destination is COVID safe or not.
@@ -51,9 +52,6 @@ Our target audience would be  uncertain travelers, who cannot decide whether a p
 
 ![](Images/272_map2.png)
 
-## Approach Used
-ARIMA model used to predict future number of cases.
-
 ## Technologies and tools used:
 1. Jupyter Notebook/VS Code : IDE used for coding the solution.
 2. Python was used to implement the algorithms. Various predefined libraries
@@ -62,4 +60,10 @@ preprocessing, feature engineering etc.
 3. React JS and MongoDB were used for building the frontend and backend of
 the GUI/ Web Application respectively.
 4. Postman was used to test the API.
+
+## Future Scope
+1. Integration with vaccination data can result in an even better prediction.
+2. More granularity in terms of state and cities as compared to only countries.
+3. Using dynamic data will ensure better, more up to date results. 
+4. Integration with other third party websites can increase functionalities like booking flights from the same website.
 
