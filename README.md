@@ -25,31 +25,41 @@ Our target audience would be  uncertain travelers, who cannot decide whether a p
 *	https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv
 
 ## Architecture Diagram
-![](Images/project_architecture.PNG)
+![](https://github.com/Yusuf-Juzar-Soni/Travel_Safe-/blob/master/Images/project_architecture.png)
 
-Landing Page
+**Landing Page**
+
 ![](Images/272_landing.png)
 
-Login Page
+**Login Page**
+
 ![](Images/272_login.png)
 
-Signup Page
+**Signup Page**
+
 ![](Images/272_signup.png)
 
-Home Page
+**Home Page**
+
 ![](Images/272_home.png)
 
-Top 20 Recommended Safe Countries based on Predicted Score
+**Top 20 Recommended Safe Countries based on Predicted Score**
+
 ![](Images/272_map.png)
 
-Top 20 Active cases on that date
+**Top 20 Active cases on that date**
+
 ![](Images/272_map2.png)
 
-Training Algorithms Considered
+## Approach Used
+ARIMA model used to predict future number of cases.
 
-K-means : Groups similar data into clusters
-
-Linear Regression
-
-Logistic regression
+## Technologies and tools used:
+1. Jupyter Notebook/VS Code : IDE used for coding the solution.
+2. Python was used to implement the algorithms. Various predefined libraries
+like Sci kit learn, NLTK, Pandas, Numpy etc. were used to perform data
+preprocessing, feature engineering etc.
+3. React JS and MongoDB were used for building the frontend and backend of
+the GUI/ Web Application respectively.
+4. Postman was used to test the API.
 
