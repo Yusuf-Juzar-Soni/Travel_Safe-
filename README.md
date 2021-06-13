@@ -24,7 +24,7 @@ Our target audience would be  uncertain travelers, who cannot decide whether a p
 *	https://www.kaggle.com/gpreda/covid-world-vaccination-progress
 *	https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv
 
-Architecture Diagram
+## Architecture Diagram
 ![](Images/project_architecture.PNG)
 
 Landing Page
